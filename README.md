@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jyuwaaw
-- 👀 I’m interested in Digital IC Design
-- 🌱 **.
-- 💞️ I’m looking to collaborate on projects!
+- 👀 I’m interested in Digital IC Design related interns
 - 📫 How to reach me: jyuwaaw@gmail.com
 
 <!---

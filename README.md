@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jyuwaaw
 - 👀 I’m interested in IC Design 
 - 📫 How to reach me: jyuwaaw@gmail.com
+- jyuwaaw.github.io
 
 <!---
 jyuwaaw/jyuwaaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
